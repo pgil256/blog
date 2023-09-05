@@ -1,7 +1,7 @@
 
 ---
 
-# pgil256-blog.github.io
+# Gilhooley Dev Blog
 
 9.1.23
 
