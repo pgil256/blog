@@ -3,7 +3,7 @@
 
 # Gilhooley Dev Blog
 
-### 9.1.23
+## 9.1.23
 
 So today marks my first day of blogging about my journey as a developer.
 
@@ -19,7 +19,7 @@ I have one more app to finish, then my static/github portfolio should be good to
 
 ---
 
-### 9.4.23
+## 9.4.23
 
 How not to develop a React Node.js application:
 
@@ -43,7 +43,7 @@ Thank you for reading! Looking forward to delving into the world of open source 
 
 ---
 
-### 9.8.23
+## 9.8.23
 
 ...while this is still fresh on my mind: I'd like to talk about the good, neutral (a.k.a. bad ;]), and ugly topics I referenced a week ago:
 
@@ -74,3 +74,5 @@ Middleware: JWT's have become the bane of my existance in production. Causing is
 Next week: Will make a decision on my first open source issue. ALSO: will be marketing myself for freelance work, starting with upWork. Good luck out there everybody.
 
 **TLDR:** If there's one takeaway I want people to have, it's that setting up a proxy server in your local enviornment might be a solution if you are facing errors with database migration and seeding to a live server. However, YMMV.
+
+---
