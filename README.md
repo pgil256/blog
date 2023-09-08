@@ -3,6 +3,16 @@
 
 # Gilhooley Dev Blog
 
+---
+
+## Table of Contents
+1. [9.1.23](#date-9123)
+2. [9.4.23](#date-9423)
+3. [9.8.23](#date-9823)
+
+---
+
+<a id="date-9123"></a>
 ## 9.1.23
 
 So today marks my first day of blogging about my journey as a developer.
@@ -19,6 +29,7 @@ I have one more app to finish, then my static/github portfolio should be good to
 
 ---
 
+<a id="date-9423"></a>
 ## 9.4.23
 
 How not to develop a React Node.js application:
@@ -43,6 +54,7 @@ Thank you for reading! Looking forward to delving into the world of open source 
 
 ---
 
+<a id="date-9823"></a>
 ## 9.8.23
 
 ...while this is still fresh on my mind: I'd like to talk about the good, neutral (a.k.a. bad ;]), and ugly topics I referenced a week ago:
