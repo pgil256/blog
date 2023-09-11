@@ -11,7 +11,8 @@
 1. [9.1.23](#date-9123)
 2. [9.4.23](#date-9423)
 3. [9.8.23](#date-9823)
-
+4. [9.11.23](#date-91123)
+   
 ---
 
 <a id="date-9123"></a>
@@ -88,5 +89,24 @@ Middleware: JWT's have become the bane of my existance in production. Causing is
 Next week: Will make a decision on my first open source issue. ALSO: will be marketing myself for freelance work, starting with upWork. Good luck out there everybody.
 
 **TLDR:** If there's one takeaway I want people to have, it's that setting up a proxy server in your local enviornment might be a solution if you are facing errors with database migration and seeding to a live server. However, YMMV.
+
+---
+
+<a id="date-91123"></a>
+## 9.11.23
+
+Job hunting is NO fun. Countless hours searching, drafting cover letters and optimizing resumes (protip: Jobscan.co is GREAT for this), reconfiguring LinkedIn profiles, shaping up GitHub repos, getting professional pictures done, studying for interviews, waiting for callbacks—the list goes on and on.
+
+I spent the first few months of my job hunt clamoring at every job posting within reach and desperately trying to make things work. Days turned to weeks, weeks to months, and still less than one percent return on applications? Something had to give.
+
+It wasn't until I started considering the perspective of an employer that I began seeing better results. Why are you the best applicant for a given position? The market is competitive, and employers have a dealer's choice with regards to available candidates. What if, instead of trying so hard to convince of your own value, you ACTUALLY built your own value as a candidate? You could:
+
+1. Find a mentor through a local tech group. Meetup and Slack are GREAT low-investment resources to find developer groups. Any advice you can get at a beginner stage is invaluable. Not only that, it's a great opportunity to network and meet other developers. As long as you go in with an open mind and are willing to learn and listen, I can promise you will get something out of it.
+2. Build a portfolio! Whatever you're proud of developing, show it off! It can't just be taken on your word that you are good at what you do. There are only so many spots for hiring managers to interview, and it's important you demonstrate your value so you have the best chance possible at securing those opportunities.
+3. Build an online presence. Branding yourself well, creating valuable content, and being involved on GitHub, LinkedIn, etc., are easy ways for you to get noticed.
+4. Find work wherever possible to show applicable experience. Recently, I've started seeking out freelancing work. Check out Upwork, Toptal, or Freelancer to get started. If you build something for a client, that's paid experience for your resume and portfolio.
+5. Open source work! I'm currently scouring UpForGrabs, FirstTimersOnly, and GoodFirstIssue so I can make a meaningful pull request. It costs nothing and gives you the closest proxy you can get to real-world experience at this stage.
+   
+Hopefully, some of these tips are helpful and touch on some things you haven't tried yet. Remember, all you need is one yes. Happy job hunting!
 
 ---
