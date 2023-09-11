@@ -5,6 +5,8 @@
 
 ---
 
+## To contact/view my dev work, visit my portfolio [here](https://pgil256.github.io/).
+
 ## Table of Contents
 1. [9.1.23](#date-9123)
 2. [9.4.23](#date-9423)
