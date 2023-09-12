@@ -1,0 +1,42 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Gilhooley Developer Blog'
+theme = 'archie'
+copyright = "© Athul"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+[params]
+	mode="auto"
+	useCDN=false
+	subtitle = "A software blog by [Patrick Gilhooley](https://pgil256.github.io/)"
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/pgil256"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "www.linkedin.com/in/patrick-gilhooley-03360b235"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
