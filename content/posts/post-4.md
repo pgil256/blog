@@ -2,7 +2,7 @@
 title: "Thoughts on Job Searching"
 date: 2023-09-11T12:13:35+05:30
 tldr: "If you can't find a job, be a better candidate."
-description: "The perils of the job search."
+description: "The perils of the job search.."
 tags: [job-search]
 ---
 
