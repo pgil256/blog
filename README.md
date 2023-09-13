@@ -1,6 +1,6 @@
 # 🌟 Developer Blog
 
-Welcome to the repository for my developer blog! This blog is built using the [Hugo](https://gohugo.io/) static site generator and is hosted on [GitHub Pages](https://pages.github.com/).
+Welcome to the repository for my developer blog! This blog is built using the [Hugo](https://gohugo.io/) static site generator and is hosted on [GitHub Pages](https://pages.github.com/). The live site can be accessed [here](https://pgil256.github.io/blog/).
 
 ## 📂 Directory Structure
 
